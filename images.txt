@@ -1,2 +1,1 @@
-docker-bake.hcl
-
+golang-cross:xx-sdk-extras
