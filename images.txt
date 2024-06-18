@@ -1,1 +1,1 @@
-golang-cross:xx-sdk-extras
+nginx:latest
