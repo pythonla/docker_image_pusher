@@ -1,1 +1,1 @@
-nginx:latest
+docker.io/dockercore/golang-cross:xx-sdk-extras
