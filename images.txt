@@ -1,5 +1,1 @@
-docker.io/projecthami/volcano-vgpu-device-plugin:v1.9.1
-volcanosh/vc-webhook-manager:v1.9.0
-volcanosh/vc-controller-manager:v1.9.0
-volcanosh/vc-scheduler:v1.9.0
 volcanosh/volcano-device-plugin:1.0.0-ubuntu20.04
