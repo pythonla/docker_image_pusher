@@ -1,2 +1,2 @@
 nvcr.io/nvidia/k8s-device-plugin:v0.15.0  
-k8s.m.daocloud.io/kubernetes_incubator/node-feature-discovery:v0.6.0
+quay.io/kubernetes_incubator/node-feature-discovery:v0.6.0
