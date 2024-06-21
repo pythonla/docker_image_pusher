@@ -1,3 +1,2 @@
-docker.io/calico/cni:v3.25.0
-docker.io/calico/node:v3.25.0
-docker.io/calico/kube-controllers:v3.25.0
+nvcr.io/nvidia/k8s-device-plugin:v0.15.0  
+k8s.m.daocloud.io/kubernetes_incubator/node-feature-discovery:v0.6.0
