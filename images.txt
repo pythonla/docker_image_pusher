@@ -1,1 +1,1 @@
-nvidia/cuda:12.5.0-base-ubuntu22.04
+goharbor/prepare:v2.8.4
