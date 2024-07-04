@@ -1,1 +1,1 @@
- mpioperator/mpi-operator:master
+freeipa/freeipa-server:rocky-9
