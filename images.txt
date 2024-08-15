@@ -1,1 +1,3 @@
-quay.io/prometheus/alertmanager:v0.26.0
+k8s.gcr.io/nfd/node-feature-discovery:v0.10.1
+nvcr.io/nvidia/cloud-native/network-operator:v23.1.0
+nvcr.io/nvidia/mellanox/sriov-network-operator:network-operator-1.4.0
