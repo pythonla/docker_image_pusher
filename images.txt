@@ -1,2 +1,1 @@
-golang:1.18 
-python:2.7-alpine
+juicedata/juicefs:latest
