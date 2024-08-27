@@ -1,1 +1,1 @@
-juicedata/juicefs
+nginx
