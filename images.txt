@@ -1,1 +1,2 @@
-grafana/grafana:9.1.5
+golang:1.18 
+python:2.7-alpine
