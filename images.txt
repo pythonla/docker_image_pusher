@@ -1,2 +1,2 @@
 ghcr.io/mellanox/ib-kubernetes:v1.0.2
-k8s-rdma-shared-dev-plugin:v1.3.2
+nvcr.io/nvidia/cloud-native/k8s-rdma-shared-dev-plugin:v1.3.2
