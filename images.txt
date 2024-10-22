@@ -1,1 +1,1 @@
- registry.k8s.io/sig-storage/nfs-provisioner:v4.0.8
+nvcr.io/nvidia/pytorch:24.02-py3
